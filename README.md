@@ -1,4 +1,6 @@
 # Netflix Content Analysis: 
-Dataset used: netflix_content_2023.csv
+Project Description: Exploratory Data analysis based on content released on Neflix for the year 2023.
 
-Exploratory Data analysis based on content released on Neflix for the year 2013.
+Analysis at: Netflix Content Analysis.ipynb
+
+Dataset used: netflix_content_2023.csv
